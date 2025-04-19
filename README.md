@@ -54,7 +54,7 @@ To detect and track football players in video footage using classical computer v
 
 ## 📸 Sample Output
 
-![Demo pic](/home/israth/Documents/Code/Python/var-football/sample.png)
+![Demo pic](sample.png)
 
 ---
 
